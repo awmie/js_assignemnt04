@@ -1,0 +1,59 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    color: #00FA9A;
+    background-color: black;
+}
+   
+main{
+    text-align: center;
+}
+
+.heading{
+    font-size: 3em;
+    text-align: center;
+}
+
+.container{
+    background-color: grey;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    width: auto;
+    height: 100px;
+    padding: 70px;
+    border: 3px solid;
+    color: black;
+}
+.colorchoices{
+    font-size: 23px;
+}
+.inputcolor{
+    background: none;
+    border: 4px solid;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: inherit;
+    font-size: 2rem;
+    padding: 2rem;
+    width: 10rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.btn{
+    background-color: rgb(127, 219, 211);
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1.5rem 2rem;
+    cursor: pointer;
+
+}
+
+.btn1{
+    background-color: rgb(235, 150, 116);
+    font-size: .8rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1rem 2rem;
+    cursor: pointer;
+
+}
